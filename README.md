@@ -1,2 +1,2 @@
 # Food-Beverage-sales_Dashboard
-Turning global sales data into powerful business insights!
+Turning global food and beverage sales data into powerful business insights!
